@@ -36,7 +36,7 @@ cd ArcadePy
 - **Run the main game launcher (arcadepy.py)**:
 
 ```bash
-python arcadepy.py
+python ArcadePy.py
 ```
 
 **You will be presented with a menu of four options, each representing one of the games. Click the corresponding button to start a game.**
