@@ -4,6 +4,8 @@
 
 ArcadePy is an umbrella project that merges four classic Python-based arcade games into one repository. With a simple user interface, the `arcadepy.py` file allows you to choose from four exciting games: Slither, Pong, Hovering UFO, and Hangman. Each game offers unique mechanics and is built using Python, providing an entertaining and engaging experience right in your terminal or command line interface.
 
+---
+
 ## Features
 
 - **Slither**: A classic snake game where you control a snake to eat food and grow longer while avoiding hitting the walls or itself.
@@ -51,7 +53,21 @@ python ArcadePy.py
   3. Commit your changes (git commit -am 'Add feature').
   4. Push to the branch (git push origin feature-name).
   5. Create a new pull request.
-     
+
+---
+
+## Tutorial 
+
+- You can watch a demo of the game in action by following this link:
+
+
+
+- Here’s a sample output of the game interface:
+
+<div align="center"> <img src="./SampleOutput.png" alt="Output" style="width: auto; height: auto;"> </div>
+
+---
+
 ## License
 
 *This project is open source and available under the MIT License.*
