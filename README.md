@@ -77,4 +77,4 @@ python ArcadePy.py
 ## Contact
 
 [![GitHub - AaryanGole26](https://img.shields.io/badge/GitHub%20-%23AaryanGole26-%2300A6A6?style=for-the-badge)](https://github.com/AaryanGole26)
-[![Repository - ArcadePy](https://img.shields.io/badge/Repository%20-%23CineSLEUTH-%2300A6A6?style=for-the-badge)](https://github.com/AaryanGole26/ArcadePy)
+[![Repository - ArcadePy](https://img.shields.io/badge/Repository%20-%23ArcadePy-%2300A6A6?style=for-the-badge)](https://github.com/AaryanGole26/ArcadePy)
