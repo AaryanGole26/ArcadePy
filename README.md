@@ -60,7 +60,7 @@ python ArcadePy.py
 
 - You can watch a demo of the game in action by following this link:
 
-
+[![Watch the Sample Video](https://img.shields.io/badge/Watch%20the%20Sample%20Video-%2300A6A6?style=for-the-badge)](https://player.vimeo.com/video/1034330514?autoplay=1&muted=1)
 
 - Here’s a sample output of the game interface:
 
