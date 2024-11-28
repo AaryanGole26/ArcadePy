@@ -1,0 +1,5 @@
+pygame
+cx_Freeze
+random2
+PyQt5
+Pillow
