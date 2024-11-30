@@ -2,7 +2,7 @@
 
 # ArcadePy
 
-ArcadePy is an umbrella project that merges four classic Python-based arcade games into one repository. With a simple user interface, the `arcadepy.py` file allows you to choose from four exciting games: Slither, Pong, Hovering UFO, and Hangman. Each game offers unique mechanics and is built using Python, providing an entertaining and engaging experience right in your terminal or command line interface.
+ArcadePy is an umbrella project that merges four classic Python-based arcade games into one repository. With a simple user interface, the `ArcadePy.py` file allows you to choose from four exciting games: Slither, Pong, Hovering UFO, and Hangman. Each game offers unique mechanics and is built using Python, providing an entertaining and engaging experience right in your terminal or command line interface.
 
 ---
 
