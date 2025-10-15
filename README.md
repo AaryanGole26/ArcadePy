@@ -1,4 +1,4 @@
-<div align="center"> <img src="./ArcadePy_Banner.png" alt="ArcadePy" style="max-width: 100%; height: auto;"> </div>
+<div align="center"> <img src="images/ArcadePy_Banner.png" alt="ArcadePy" style="max-width: 100%; height: auto;"> </div>
 
 # ArcadePy
 
@@ -64,7 +64,7 @@ python ArcadePy.py
 
 - Here’s a sample output of the game interface:
 
-<div align="center"> <img src="./SampleOutput.png" alt="Output" style="width: auto; height: auto;"> </div>
+<div align="center"> <img src="images/SampleOutput.png" alt="Output" style="width: auto; height: auto;"> </div>
 
 ---
 
